@@ -28,5 +28,6 @@ Here's an extended version of your bio with more information and personality:
 * Social media: [[Facebook](https://www.facebook.com/profile.php?id=100093554881408&mibextid=ZbWKwL)]
 * Stack Overflow: [[SeanYork35](https://stackoverflow.com/users/23075519/seanyork35?tab=profile)]
 * leetcode: [[SeanYork35](https://leetcode.com/SeanYork35/)]
+* of course Github
 
 **Always learning, always creating, always connecting. That's SeanYork35!**
